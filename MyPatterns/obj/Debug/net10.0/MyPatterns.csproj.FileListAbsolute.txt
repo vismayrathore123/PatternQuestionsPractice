@@ -12,3 +12,4 @@ C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\refin
 C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\MyPatterns.pdb
 C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\MyPatterns.genruntimeconfig.cache
 C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\ref\MyPatterns.dll
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\MyPatterns.sourcelink.json
