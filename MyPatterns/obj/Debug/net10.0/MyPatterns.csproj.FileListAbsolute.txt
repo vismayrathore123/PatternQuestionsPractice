@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\bin\Debug\net10.0\MyPatterns.exe
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\bin\Debug\net10.0\MyPatterns.deps.json
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\bin\Debug\net10.0\MyPatterns.runtimeconfig.json
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\bin\Debug\net10.0\MyPatterns.dll
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\bin\Debug\net10.0\MyPatterns.pdb
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\MyPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\MyPatterns.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\MyPatterns.AssemblyInfo.cs
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\MyPatterns.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\MyPatterns.dll
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\refint\MyPatterns.dll
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\MyPatterns.pdb
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\MyPatterns.genruntimeconfig.cache
+C:\Users\User\Desktop\vismaynetpractice\tests\MyPatterns\obj\Debug\net10.0\ref\MyPatterns.dll
