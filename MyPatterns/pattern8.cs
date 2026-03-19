@@ -1,3 +1,9 @@
+// 1
+// 12
+// 123
+// 1234
+// 12345
+
 // public class pattern8
 // {
 //     public static void Main(string [] args)
